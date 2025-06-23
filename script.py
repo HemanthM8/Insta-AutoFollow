@@ -5,8 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-USERNAME = "testa_cc081"
-PASSWORD = "hello@123"
+USERNAME = "YOUR_USERNAME"
+PASSWORD = "YOUR_PASSOWRD"
 TARGET_ACCOUNT = "cbitosc"
 
 driver = webdriver.Chrome()
